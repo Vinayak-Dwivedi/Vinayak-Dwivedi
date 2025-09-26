@@ -23,6 +23,16 @@ I'm a passionate developer with internship experience in **Full-Stack Developmen
 
 ---
 
+### ✨ Featured Projects
+
+#### 🎨 [Real-Time Collaborative Whiteboard](https://github.com/Vinayak-Dwivedi/collaborative-whiteboard)
+
+A full-stack web application that provides a shared digital canvas for multiple users to draw on simultaneously. Built with WebSockets for instant communication, it's a versatile tool for brainstorming, teaching, or even playing a quick game of Tic-Tac-Toe!
+
+- **Tech Stack:** `React`, `TypeScript`, `Node.js`, `Express`, `Socket.IO`, `Render`, `Netlify`
+- **Live Demo:** **[vinay-whiteboard.netlify.app](https://vinay-whiteboard.netlify.app/)**
+
+---
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies I'm proficient in:

@@ -21,6 +21,7 @@ I am a **Software Developer** with a passion for building intelligent systems an
 - **Current Projects:** AI Driven Blogging Platform, aimed for research in content creation and personalization.
 - **Research Interest:**  Cloud Architecture and fundamentals of Distributed Systems (Blockchain).
 - **Collaboration:** Open to collaborations and new opportunities at **vinayakdwivedi2023@gmail.com**.
+- **PORTFOLIO:  https://vinayakvoid.netlify.app/ **.
 ---
 
 ### 🚀 My Featured Projects
